@@ -1,8 +1,9 @@
 **Name**: Archit Pimple
+
 **Email**: apimple@ucsd.edu
 
-Section: A06
-Mentors: Utkrisht Rajkumar, Thiago Mosqueiro, and Misha Belkin
+**Section**: A06\n
+**Mentors**: Utkrisht Rajkumar, Thiago Mosqueiro, and Misha Belkin
 
 1. **What is the most interesting topic covered in your domain this quarter?**
    The most interesting topic covered in my domain has been using Graph Convolutional Networks to identify long-range dependencies in gene interactions. This method allows not only to learn global structure of DNA but also local subsets to learn better interactions between genes in an optimized method.
