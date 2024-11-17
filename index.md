@@ -1,7 +1,7 @@
-**Name**: Archit Pimple<br>
+**Name**: Archit Pimple <br>
 **Email**: apimple@ucsd.edu
 
-**Section**: A06<br>
+**Section**: A06 <br>
 **Mentors**: Utkrisht Rajkumar, Thiago Mosqueiro, and Misha Belkin
 
 1. **What is the most interesting topic covered in your domain this quarter?**<br>
